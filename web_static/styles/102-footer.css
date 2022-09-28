@@ -1,0 +1,13 @@
+/* Styling sheet for the footer */
+footer {
+	left: 0;
+	bottom: 0;
+	position: fixed;
+	background-color: white;
+	height: 60px;
+	width: 100%;
+	justify-content: center;
+	border-top: 1px solid #CCCCCC;
+	display: flex;
+	text-align: center;
+}
