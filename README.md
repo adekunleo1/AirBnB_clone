@@ -39,7 +39,7 @@ e.g., For models/user.py, unit tests must be in: tests/test_models/test_user.py
 At this time, there are no known bugs.
 
 ## Authors
-Ogundare Abdulahi | [GitHub](https://github.com/adekunleo1)
+Adekunle Ogunleye | [GitHub](https://github.com/adekunleo1)
 
 ## License
 AirBnB_Clone is open source and therefore free to download and use without permission.
