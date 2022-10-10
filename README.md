@@ -40,6 +40,7 @@ At this time, there are no known bugs.
 
 ## Authors
 Adekunle Ogunleye | [GitHub](https://github.com/adekunleo1)
+Adeyemo Peter | [GitHub](https://github.com/adeyemodanointed)
 
 ## License
 AirBnB_Clone is open source and therefore free to download and use without permission.
